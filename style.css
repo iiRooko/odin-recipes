@@ -9,7 +9,17 @@
     text-align: center;
     
 }
-body {
+.main {
     background-color: rgb(36, 33, 33);
     font-family: Arial, Helvetica, sans-serif;
+}
+.boiledegg {
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    color: rgb(146, 22, 22);
+}
+.list {
+    text-align: center;
 }
