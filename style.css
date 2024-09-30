@@ -23,3 +23,11 @@
 .list {
     text-align: center;
 }
+
+#oatmeal {
+    background-color: rgba(250, 113, 2, 0.5);
+}
+#title {
+    font-size: 70px;
+    color: gold;
+}
