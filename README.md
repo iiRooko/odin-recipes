@@ -15,5 +15,6 @@
     <li>ol. Step by step list.</li>
 </ul>
 <p>I'm sure I forgot some tags, but that's fine for me. Well, heres to hoping I can put these things together and knock out this project without too much struggle.</p>
-<p>Finished html project on 26SEP2024.</p>
-<p>I felt like I did pretty good on this project! I messed up a tag with net= instead of alt= . <em>Not sure how I did that.</em> Looking at other peoples finished projects was really neat. Some people added a "back" button link to get back to the index page. Some added in the attribute to open <del>things</del> pages in new tabs. Overall, very satisifed with the project and looking forward to CSS!
+<p><strong>Finished html project on 26SEP2024.</strong></p>
+<p>I felt like I did pretty good on this project! I messed up a tag with net= instead of alt= . <em>Not sure how I did that.</em> Looking at other peoples finished projects was really neat. Some people added a "back" button link to get back to the index page. Some added in the attribute to open <del>things</del> pages in new tabs. Overall, very satisfied with the project and looking forward to CSS!
+<p><strong>Started CSS portion of project on 30SEP2024</strong></p>
