@@ -17,6 +17,7 @@
 <p>I'm sure I forgot some tags, but that's fine for me. Well, heres to hoping I can put these things together and knock out this project without too much struggle.</p>
 <p><strong>Finished html project on 26SEP2024.</strong></p>
 <p>I felt like I did pretty good on this project! I messed up a tag with net= instead of alt= . <em>Not sure how I did that.</em> Looking at other peoples finished projects was really neat. Some people added a "back" button link to get back to the index page. Some added in the attribute to open <del>things</del> pages in new tabs. Overall, very satisfied with the project and looking forward to CSS!
-<p><strong>Started CSS portion of project on 30SEP2024</strong></p>
+<p><strong>Started first CSS portion of project on 30SEP2024</strong></p>
 <p><strong>Finished first CSS portion on 30SEP2024</strong></p>
-<p>Adding some CSS elements went alright, I purposely made the lasagna page <del>beautiful</del>hideous.</p>
+<p>Adding some CSS elements. Went alright, I purposely made the lasagna page <del>beautiful</del>hideous.</p>
+<p><strong>Started second CSS portion of project on 02OCT2024.</strong></p>
