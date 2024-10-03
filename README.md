@@ -21,3 +21,5 @@
 <p><strong>Finished first CSS portion on 30SEP2024</strong></p>
 <p>Adding some CSS elements. Went alright, I purposely made the lasagna page <del>beautiful</del>hideous.</p>
 <p><strong>Started second CSS portion of project on 02OCT2024.</strong></p>
+<p><strong>Finished second CSS portion of project on 03OCT2024.</strong></p>
+<p>Per instructions, the index.html was the only page edited, but due to global element changes, it messed with my recipe pages too.</p>
