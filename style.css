@@ -33,13 +33,15 @@ a {
 }
 
 .link1, .link2, .link3 {
-    border: solid white 5px;
+    border: solid rgb(255, 255, 255) 5px;
     padding: 10px 20px;
     margin-left: 10px;
     display: inline-block;
     margin-bottom: 20px;
-    
+}
 
+.link1:hover, .link2:hover, .link3:hover {
+    background-color: rgb(57, 57, 87);
 }
 
 .boiledegg {
