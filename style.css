@@ -8,6 +8,12 @@
     padding: 0;
     margin: 0;
 }
+    
+.main {
+    background-color: rgb(36, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
 
 a {
     text-decoration: none;
@@ -19,23 +25,32 @@ a {
     color: rgb(47, 151, 143);
     text-align: center;
 }
+
 .links {
     font-size: 50px;
     color: aquamarine;
-    text-align: center;
+    margin-left: 70px;
+}
+
+.link1, .link2, .link3 {
+    border: solid white 5px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    display: inline-block;
+    margin-bottom: 20px;
     
+
 }
-.main {
-    background-color: rgb(36, 33, 33);
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 .boiledegg {
     background-color: yellow;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .header {
     color: rgb(146, 22, 22);
 }
+
 .list {
     text-align: center;
 }
@@ -51,6 +66,7 @@ a {
     background-color: darkorange;
     text-align: right;
 }
+
 .lasagna {
     font-weight: 100;
     font-family: Arial, Helvetica, sans-serif;
